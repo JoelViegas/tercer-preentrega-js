@@ -112,7 +112,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: linear-gradient(to bottom,#d594e2,#810471);
+    background:rgb(29, 67, 235);
     border-radius: 15px;
     padding: 10px;
     color: white;
@@ -136,5 +136,5 @@ body {
 
 .line-through{
     text-decoration: line-through;
-    color:rgb(247, 179, 220);
+    color:rgb(255, 105, 105);
 } 
